@@ -1,0 +1,9 @@
+* cl-cffi-glib
+
+cl-cffi-glib is a Lisp binding to the GLib, GObject, and GIO libraries.
+
+|---------+--------------------------------------------------|
+| source  | git:https://github.com/crategus/cl-cffi-glib.git |
+| commit  | efe9f15                                          |
+| systems | cl-cffi-glib                                     |
+|---------+--------------------------------------------------|
